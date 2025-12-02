@@ -49,8 +49,8 @@ Notes about the AI and tuning
 
 Project structure
 ```
+README.md
 space_invader_pygame-main/
-├── README.md
 ├── spaceEnvader/
 │   ├── main.py            # game entry
 │   ├── ai_brain.py        # enemy AI + Q-learning
