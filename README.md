@@ -1,4 +1,4 @@
-# Space Invader (Python + Pygame)
+# Space Invader (Python + Pygame) 
 
 A compact Space Invader game implemented in Python using Pygame. The project includes a simple enemy AI that combines a finite-state controller with a lightweight Q-learning component so enemies can adapt their high-level decisions (patrol / attack / evade) over time.
 
